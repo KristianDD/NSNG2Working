@@ -1,5 +1,6 @@
 "use strict";
-exports.appRoutes = [{
+exports.appRoutes = [
+    {
         path: "",
         redirectTo: "/home",
         pathMatch: "full"
