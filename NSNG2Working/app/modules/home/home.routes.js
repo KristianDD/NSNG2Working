@@ -1,7 +1,8 @@
 "use strict";
 var router_1 = require("@angular/router");
 var home_component_1 = require("./home.component");
-var homeRoutes = [{
+var homeRoutes = [
+    {
         path: 'home',
         component: home_component_1.HomeComponent
     }
