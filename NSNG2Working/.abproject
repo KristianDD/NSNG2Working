@@ -1,0 +1,28 @@
+{
+  "ProjectName": "NSNG2Working",
+  "ProjectGuid": "6176ca5e-9199-45df-9c1e-c5f2514a953e",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.NSNG2Working",
+  "DisplayName": "NSNG2Working",
+  "Author": "",
+  "Description": "NSNG2Working",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "2.2.0",
+  "Framework": "NativeScript"
+}
